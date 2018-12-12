@@ -49,8 +49,8 @@ input {
 #header {
   display: flex;
   align-items: center;
-  height: 7%;
-  background-color: #cbcb00;
+  padding: 5px;
+  background-color: #cbcbcb;
 }
 
 #main {
