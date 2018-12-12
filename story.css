@@ -69,7 +69,7 @@ input {
   display: flex;
   justify-content: center;
   float: right;
-
+  flex-grow: 1;
   border-left: 2px solid coral;
   padding: 1% 15%;
 }
