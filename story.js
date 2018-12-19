@@ -13,6 +13,6 @@ function noScroll() {
   }
 }
 
-function drop() {
-  document.getElementById("down").classList.toggle("show");
+function drop(down) {
+  document.getElementById(down).classList.toggle("show");
 }
