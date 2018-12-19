@@ -12,7 +12,8 @@ a {
 }
 
 a,
-#header {
+#header,
+.title{
   color: coral;
 }
 
