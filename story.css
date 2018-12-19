@@ -68,6 +68,7 @@ input {
 
 #content {
   display: flex;
+  flex-direction:column;
   justify-content: center;
   float: right;
   border-left: 2px solid coral;
