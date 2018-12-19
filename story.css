@@ -4,7 +4,6 @@ body {
   width: 100%;
   margin: 0 auto;
   background-color: #dcdcdc;
-  overflow:hidden;
 }
 
 a {
@@ -43,7 +42,7 @@ input {
 }
 
 #cont {
-  grow:1;
+  flex-grow:1;
   width: 100%;
   height: 100%;
   display: flex;
@@ -51,6 +50,7 @@ input {
 }
 
 #header {
+  overflow:hidden;
   display: flex;
   align-items: center;
   padding: 5px;
