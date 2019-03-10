@@ -1,0 +1,64 @@
+<svg height="900" width="300" opacity="0.75"
+	version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+     xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/">
+  <g stroke="gray" stroke-width="7">
+    <path  d="M0 20 l960 0" />
+    <path  d="M0 35 l960 0" />
+	<path  d="M0 50 l960 0" />
+    <path  d="M0 65 l960 0" />
+    <path  d="M0 80 l960 0" />
+    <path  d="M0 95 l960 0" />
+    <path  d="M0 110 l960 0" />
+    <path  d="M0 125 l960 0" />
+    <path  d="M0 140 l960 0" />
+    <path  d="M0 155 l960 0" />
+    <path  d="M0 170 l960 0" />
+    <path  d="M0 185 l960 0" />
+    <path  d="M0 200 l960 0" />
+    <path  stroke="rgb(25,25,25)" stroke-width="21" d="M0 205 l960 0" />
+	<path  stroke="rgb(275,25,15)" stroke-width="21" d="M0 225 l960 0" />
+    <path  d="M0 245 l960 0" />
+    <path  d="M0 260 l960 0" />
+    <path  d="M0 275 l960 0" />
+    <path  d="M0 290 l960 0" />
+    <path  d="M0 305 l960 0" />
+    <path  d="M0 320 l960 0" />
+    <path  d="M0 335 l960 0" />
+	<path  d="M0 350 l960 0" />
+    <path  d="M0 365 l960 0" />
+    <path  d="M0 380 l960 0" />
+    <path  d="M0 395 l960 0" />
+    <path  d="M0 410 l960 0" />
+    <path  d="M0 425 l960 0" />
+    <path  d="M0 440 l960 0" />
+    <path  d="M0 455 l960 0" />
+    <path  d="M0 470 l960 0" />
+    <path  d="M0 485 l960 0" />
+    <path  stroke="rgb(25,25,25)" stroke-width="21" d="M0 505 l960 0" />
+	<path  stroke="rgb(275,25,15)" stroke-width="21" d="M0 525 l960 0" />
+    <path  d="M0 545 l960 0" />
+    <path  d="M0 560 l960 0" />
+    <path  d="M0 575 l960 0" />
+    <path  d="M0 590 l960 0" />
+	<path  d="M0 605 l960 0" />
+    <path  d="M0 620 l960 0" />
+    <path  d="M0 635 l960 0" />
+	<path  d="M0 650 l960 0" />
+    <path  d="M0 665 l960 0" />
+    <path  d="M0 680 l960 0" />
+    <path  d="M0 695 l960 0" />
+    <path  d="M0 710 l960 0" />
+    <path  d="M0 725 l960 0" />
+    <path  d="M0 740 l960 0" />
+    <path  d="M0 755 l960 0" />
+    <path  d="M0 770 l960 0" />
+    <path  d="M0 785 l960 0" />
+    <path  stroke="rgb(25,25,25)" stroke-width="21" d="M0 805 l960 0" />
+	<path  stroke="rgb(275,25,15)" stroke-width="21" d="M0 825 l960 0" />
+    <path  d="M0 845 l960 0" />
+    <path  d="M0 860 l960 0" />
+    <path  d="M0 875 l960 0" />
+    <path  d="M0 890 l960 0" />
+  </g>
+</svg>
