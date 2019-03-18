@@ -1,0 +1,44 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="1px" y="1px"
+	 width="300" height="300"  style="enable-background:new 0 0 255 0;" xml:space="preserve">
+   <g stroke="black" stroke-width="3">
+	Verticals
+   <path stroke-width="1.5" 	
+    d=" 
+    M 1 0 l 0 300
+    M 300 0 l 0 300
+    M 100 0 l 0 300
+    M 200 0 l 0 300
+   "
+ />
+ 	Horizontals
+   <path stroke="black" stroke-width="1"
+    d="
+    M 0 1 l 300 0
+    M 0 100 l 300 0
+    M 0 200 l 300 0
+    M 0 299 l 300 0
+   "
+ />
+ 	Changes
+   <path stroke="red" stroke-width="1.5"
+    d="
+    M 0 1 l 100 0
+    M 100 0 l 0 100
+    M 200 100 l 0 300
+    M 300 100 l 0 300
+	M 200 299 l 300 0
+    M 100 100 l 200 0
+    M 200 200 l 200 0
+   "
+ />
+  	Arrow
+   <path stroke="red" stroke-width="1.5"
+    d="
+    M 290 290 l 300 290
+   "
+ />
+ <text x='150' y='50'>3</text>
+ 
+ </g>
+</svg>
