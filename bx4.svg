@@ -18,14 +18,7 @@
     M 0 299 l 300 0
    "
  />
- 	Changes
-   <path stroke="red" stroke-width="1.5"
-    d="
-    M 0 1 l 100 0
-    M 100 0 l 0 300
-    M 100 300 l 200 0
-   "
- />
+
   	Arrow
    <path stroke="red" stroke-width="1.5"
     d="
