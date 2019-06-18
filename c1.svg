@@ -1,11 +1,10 @@
 <svg width="100%"
-		height="100%"
+     height="100%"
      opacity="0.75"
 	version="1.1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
      xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/">
   <g stroke="gray" stroke-width="7">
-    <path  d="M0 20 l960 0" />
     <path  d="M0 35 l960 0" />
 	<path  d="M0 50 l960 0" />
     <path  d="M0 65 l960 0" />
@@ -62,5 +61,115 @@
     <path  d="M0 860 l960 0" />
     <path  d="M0 875 l960 0" />
     <path  d="M0 890 l960 0" />
+    <path  d="M0 905 l960 0" />
+    <path  d="M0 920 l960 0" />
+    <path  d="M0 935 l960 0" />
+	<path  d="M0 950 l960 0" />
+    <path  d="M0 965 l960 0" />
+    <path  d="M0 980 l960 0" />
+    <path  d="M0 995 l960 0" />
+    <path  d="M0 1010 l960 0" />
+    <path  d="M0 1025 l960 0" />
+    <path  d="M0 1040 l960 0" />
+    <path  d="M0 1055 l960 0" />
+    <path  d="M0 1070 l960 0" />
+    <path  d="M0 1085 l960 0" />
+    <path  stroke="rgb(25,25,25)" stroke-width="21" d="M0 1105 l960 0" />
+	<path  stroke="rgb(275,25,15)" stroke-width="21" d="M0 1125 l960 0" />
+    <path  d="M0 1145 l960 0" />
+    <path  d="M0 1160 l960 0" />
+    <path  d="M0 1175 l960 0" />
+    <path  d="M0 1190 l960 0" />
+	<path  d="M0 1205 l960 0" />
+    <path  d="M0 1220 l960 0" />
+    <path  d="M0 1235 l960 0" />
+	<path  d="M0 1250 l960 0" />
+    <path  d="M0 1265 l960 0" />
+    <path  d="M0 1280 l960 0" />
+    <path  d="M0 1295 l960 0" />
+    <path  d="M0 1310 l960 0" />
+    <path  d="M0 1325 l960 0" />
+    <path  d="M0 1340 l960 0" />
+    <path  d="M0 1355 l960 0" />
+    <path  d="M0 1370 l960 0" />
+    <path  d="M0 1385 l960 0" />
+    <path  stroke="rgb(25,25,25)" stroke-width="21" d="M0 1405 l960 0" />
+	<path  stroke="rgb(275,25,15)" stroke-width="21" d="M0 1425 l960 0" />
+    <path  d="M0 1445 l960 0" />
+    <path  d="M0 1460 l960 0" />
+    <path  d="M0 1475 l960 0" />
+    <path  d="M0 1490 l960 0" />
+    <path  d="M0 1505 l960 0" />
+    <path  d="M0 1520 l960 0" />
+    <path  d="M0 1535 l960 0" />
+	<path  d="M0 1550 l960 0" />
+    <path  d="M0 1565 l960 0" />
+    <path  d="M0 1580 l960 0" />
+    <path  d="M0 1595 l960 0" />
+    <path  d="M0 1610 l960 0" />
+    <path  d="M0 1625 l960 0" />
+    <path  d="M0 1640 l960 0" />
+    <path  d="M0 1655 l960 0" />
+    <path  d="M0 1670 l960 0" />
+    <path  d="M0 1685 l960 0" />
+    <path  stroke="rgb(25,25,25)" stroke-width="21" d="M0 1705 l960 0" />
+	<path  stroke="rgb(275,25,15)" stroke-width="21" d="M0 1725 l960 0" />
+    <path  d="M0 1745 l960 0" />
+    <path  d="M0 1760 l960 0" />
+    <path  d="M0 1775 l960 0" />
+    <path  d="M0 1790 l960 0" />
+	<path  d="M0 1805 l960 0" />
+    <path  d="M0 1820 l960 0" />
+    <path  d="M0 1835 l960 0" />
+	<path  d="M0 1850 l960 0" />
+    <path  d="M0 1865 l960 0" />
+    <path  d="M0 1880 l960 0" />
+    <path  d="M0 1895 l960 0" />
+    <path  d="M0 1910 l960 0" />
+    <path  d="M0 1925 l960 0" />
+    <path  d="M0 1940 l960 0" />
+    <path  d="M0 1955 l960 0" />
+    <path  d="M0 1970 l960 0" />
+    <path  d="M0 1985 l960 0" />
+    <path  stroke="rgb(25,25,25)" stroke-width="21" d="M0 2005 l960 0" />
+	<path  stroke="rgb(275,25,15)" stroke-width="21" d="M0 2025 l960 0" />
+    <path  d="M0 2045 l960 0" />
+    <path  d="M0 2060 l960 0" />
+    <path  d="M0 2075 l960 0" />
+    <path  d="M0 2090 l960 0" />
+    <path  d="M0 2105 l960 0" />
+    <path  d="M0 2120 l960 0" />
+    <path  d="M0 2135 l960 0" />
+	<path  d="M0 2150 l960 0" />
+    <path  d="M0 2165 l960 0" />
+    <path  d="M0 2180 l960 0" />
+    <path  d="M0 2195 l960 0" />
+    <path  d="M0 2210 l960 0" />
+    <path  d="M0 2225 l960 0" />
+    <path  d="M0 2240 l960 0" />
+    <path  d="M0 2255 l960 0" />
+    <path  d="M0 2270 l960 0" />
+    <path  d="M0 2285 l960 0" />
+    <path  stroke="rgb(25,25,25)" stroke-width="21" d="M0 2305 l960 0" />
+	<path  stroke="rgb(275,25,15)" stroke-width="21" d="M0 2325 l960 0" />
+    <path  d="M0 2345 l960 0" />
+    <path  d="M0 2360 l960 0" />
+    <path  d="M0 2375 l960 0" />
+    <path  d="M0 2390 l960 0" />
+	<path  d="M0 2405 l960 0" />
+    <path  d="M0 2420 l960 0" />
+    <path  d="M0 2435 l960 0" />
+	<path  d="M0 2450 l960 0" />
+    <path  d="M0 2465 l960 0" />
+    <path  d="M0 2480 l960 0" />
+    <path  d="M0 2495 l960 0" />
+    <path  d="M0 2510 l960 0" />
+    <path  d="M0 2525 l960 0" />
+    <path  d="M0 2540 l960 0" />
+    <path  d="M0 2555 l960 0" />
+    <path  d="M0 2570 l960 0" />
+    <path  d="M0 2585 l960 0" />
+    <path  stroke="rgb(25,25,25)" stroke-width="21" d="M0 2605 l960 0" />
+	<path  stroke="rgb(275,25,15)" stroke-width="21" d="M0 2625 l960 0" />
   </g>
 </svg>
